@@ -11,7 +11,7 @@ Users can also create small posts and like/dislike and comment on other posts.
 # Quick Start 🚀
 
 
-#Add a default.json file in config folder with the following
+- Add a default.json file in config folder with the following
 
 {
   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
@@ -19,25 +19,25 @@ Users can also create small posts and like/dislike and comment on other posts.
   "githubToken": "<yoursecrectaccesstoken>"
 }
 
-#Install server dependencies
+- Install server dependencies
 
 npm install
 
-#Install client dependencies
+- Install client dependencies
 
 cd client
 npm install
 
-#Run both Express & React from root
+- Run both Express & React from root
 
 npm run dev
 
-#Build for production
+- Build for production
 
 cd client
 npm run build
 
-#Test production before deploy
+- Test production before deploy
 
 NODE_ENV=production node server.js
 
