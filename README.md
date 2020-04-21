@@ -15,9 +15,10 @@ Users can also create small posts and like/dislike and comment on other posts.
 
 {
   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret":
-"<yoursecrectaccesstoken>"
+  "jwtSecret":"<yoursecrectaccesstoken>"
 }
+
+
 
 - Install server dependencies
 
