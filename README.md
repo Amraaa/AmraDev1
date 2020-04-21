@@ -9,35 +9,34 @@ Users can also create small posts and like/dislike and comment on other posts.
 
 -Client side
 
-React
-Redux
-Bootstap 4
-React-Router-DOM
+React,
+Redux,
+Bootstap 4,
+React-Router-DOM.
 
 
 -Libraries used in Server-side
 
-axios
-react-moment
-react-redux
-redux-thunk
-validator
+axios,
+react-moment,
+react-redux,
+redux-thunk,
+validator.
 
 -Server side
 
-Node.js / Express
-MongoDB
-JWT
-Passport
-Passport-jwt
+Node.js / Express,
+MongoDB,
+JWT.
+
 
 -Libraries used in Server-side
 
-bcryptjs
-gravatar
-mongoose
-jwt-decode
-moment
+bcryptjs,
+gravatar,
+mongoose,
+jwt-decode,
+moment,.
 validator
 
 
